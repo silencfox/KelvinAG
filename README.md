@@ -15,17 +15,17 @@ En la actualidad me estoy preparando para certificarme como facilitador docente 
 <img src="https://raw.githubusercontent.com/silencfox/KelvinAG/main/1703107524128.gif" width="50%" height="50%">
 
 ## Repositorios:
-[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/UtilsCon)
-[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/BinanceC2C)
-[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/Ansible)
+[![GitHub Star](https://img.shields.io/badge/UtilsCon-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/UtilsCon)
+[![GitHub Star](https://img.shields.io/badge/BinanceC2C-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/BinanceC2C)
+[![GitHub Star](https://img.shields.io/badge/Ansible-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/Ansible)
 
-[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/Linux-Agent)
-[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/AlVentory)
-[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/ChatGPT_Java-Android)
+[![GitHub Star](https://img.shields.io/badge/Linux_Agent-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/Linux-Agent)
+[![GitHub Star](https://img.shields.io/badge/AlVentory-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/AlVentory)
+[![GitHub Star](https://img.shields.io/badge/GPT_Java_Android-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/ChatGPT_Java_Android)
 
-[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/ChatGPT_Python)
-[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/ChatGPT_Kotlin)
-[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/eshopdk)
+[![GitHub Star](https://img.shields.io/badge/ChatGPT_Python-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/ChatGPT_Python)
+[![GitHub Star](https://img.shields.io/badge/ChatGPT_Kotlin-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/ChatGPT_Kotlin)
+[![GitHub Star](https://img.shields.io/badge/eshopdk-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/eshopdk)
 
 ## Tecnologías:
 [![Android](https://img.shields.io/badge/Android-3DDC50?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
