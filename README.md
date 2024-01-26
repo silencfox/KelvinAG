@@ -1,21 +1,18 @@
-# KelvinAG
-# ![https://github.com/silencfox/KelvinAG](https://raw.githubusercontent.com/silencfox/KelvinAG/main/dk_emote180.png) Hola, mi nombre es Kelvin D. Alcala 👋
-### Freelance - Especialista en infraestructura TI, computacion en la nube y programacion.
-
-![https://github.com/silencfox](https://raw.githubusercontent.com/silencfox/KelvinAG/main/1703107524128.gif)
-
+# 👋 Hola, mi nombre es Kelvin D. Alcala ![https://github.com/silencfox/KelvinAG](https://raw.githubusercontent.com/silencfox/KelvinAG/main/dk_emote180.png)
+### Freelance - Especialista en infraestructura TI, Computacion en la nube y Programacion.
 
 
 ![GitHub followers](https://img.shields.io/github/followers/silencfox?style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/silencfox?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClf3BfEZgKOP3rhGQHano7g)
 
-
 En 2005 hice mi primer curso de programacion en visual basic 6, y en el 2006 hice mi primer curso de pagina web, este conocimiento me inspiro a crear el blog [**AlcalaBits**](https://alcalabits.blogspot.com) "Antes llamado Dkonline", el producto de mis intenciones de crecer dentro de la industria de la informatica.
-Desde entonces he incursionado en distintas disciplinas en el mundo de la tecnologia y como es el area de soporte tecnico, redes, programacion, base de datos, cloud y por ultimo DevOps.
+Desde entonces he incursionado en distintas disciplinas en el mundo de la tecnologia, como es el area de soporte tecnico, Gestion de cambio, Release management, Infraestructura TI y por ultimo Arquitecto DevOps.
 
 A lo largo de mi carrera he obtenido conocimiento en distintos lenguajes de programacion como es VB6, java, PHP, Python y C#.
 En la actualidad me estoy preparando para certificarme como facilitador docente por el **INFOTEP** y para certificarme en **Microsoft AZURE (AZ-400 y AZ-204)**
+
+<img src="https://raw.githubusercontent.com/silencfox/KelvinAG/main/1703107524128.gif" width="50%" height="50%">
 
 ## Repositorios:
 [![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/)
