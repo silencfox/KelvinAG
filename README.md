@@ -11,7 +11,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClf3BfEZgKOP3rhGQHano7g)
 
 
-Soy ingeniero de software profesional desde hace más de doce años.
-
 En 2005 hice mi primer curso de programacion en visual basic 6, y en el 2006 hice mi primer curso de pagina web, este conocimiento me inspiro a crear el blog [**AlcalaBits**](https://alcalabits.blogspot.com) "Antes llamado Dkonline", el producto de mis intenciones de crecer crecer como dentro de la industria de la informatica.
 Desde entonces he incursionado en distintas disciplinas en el mundo de la tecnologia y como es el area de soporte tecnico, redes, programacion, base de datos, cloud y por ultimo DevOps.
+
+En la actualidad me estoy preparando para certificarme como facilitador docente por el **INFOTEP** y para certificarme en **Microsoft AZURE (AZ-400 y AZ-204)**
