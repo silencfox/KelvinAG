@@ -18,34 +18,34 @@ A lo largo de mi carrera he obtenido conocimiento en distintos lenguajes de prog
 En la actualidad me estoy preparando para certificarme como facilitador docente por el **INFOTEP** y para certificarme en **Microsoft AZURE (AZ-400 y AZ-204)**
 
 ## Repositorios:
-[![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
-[![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
-[![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
+[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/)
+[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/)
+[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/)
 
-[![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
-[![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
-[![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
+[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/)
+[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/)
+[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/)
 
-[![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
-[![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
-[![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
+[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/)
+[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/)
+[![GitHub Star](https://img.shields.io/badge/Repositorio_Git-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/)
 
 ## Tecnologías:
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Android](https://img.shields.io/badge/Android-3DDC50?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0080D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC70?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 
 [![Python](https://img.shields.io/badge/C_Sharp-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-006396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1A?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
-[![Oracle DB](https://img.shields.io/badge/Oracle_DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/SqlServer-you_like?style=for-the-badge&logo=serverfault&logoColor=white&labelColor=101010)]()
+[![Oracle DB](https://img.shields.io/badge/Oracle_DB-47A238?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-3479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/SqlServer-3479A1?style=for-the-badge&logo=serverfault&logoColor=white&labelColor=101010)]()
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
-[![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/AWS-132F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-3285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 
 
 
