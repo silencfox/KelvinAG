@@ -26,7 +26,8 @@ En la actualidad me estoy preparando para certificarme como facilitador docente 
 [![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 [![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 [![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
-</br>
+
+
 [![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 [![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 [![Azure_Cloud](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
